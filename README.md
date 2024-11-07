@@ -1,12 +1,10 @@
 - 👋**Boas vindas ao meu perfil, sou Evillyn Mattos**
 - 👀 Eu estou interesada em fazer minhas relaçoẽs familiares serem boas 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 📖 estou aprendendo programação
 - 📫 @Evellyn.monique.mattos@escola.pr.gov.br
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-<!---
-Evillynmm/Evillynmm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
+
+
